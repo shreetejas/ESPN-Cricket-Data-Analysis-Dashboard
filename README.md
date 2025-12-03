@@ -51,12 +51,15 @@ Following DAX expression was written for the same,
        
 Rank = RANKX(ALL(Batting),Batting[SR],,DESC,Dense)
 
+##Snap of Rank column,
 <img width="73" height="731" alt="Image" src="https://github.com/user-attachments/assets/e1c93a6b-e085-4022-95f1-aedb93c9c2be" />
 
+##Snap of Squared Deviation column,
 Squared Deviation = POWER(Batting[Deviation],2) 
 
 <img width="162" height="727" alt="Image" src="https://github.com/user-attachments/assets/6f001c66-3eca-45a4-9ae5-daf612241dee" />
 
+##Snap of Absolute Deviation column,
 Absolute Deviation = ABS(Batting[Deviation])
 
 <img width="174" height="732" alt="Image" src="https://github.com/user-attachments/assets/01665cba-cfbb-453c-8d05-8e2a28ebe800" />
