@@ -69,7 +69,7 @@ Deviation = Batting[Runs]-AVERAGE(Batting[Runs])
 <img width="141" height="726" alt="Image" src="https://github.com/user-attachments/assets/8f719ee5-895f-4e7a-9959-aaf0bfdad040" />
 
 
-## Snap of Category,
+## Snap of Category column,
 Category = LOOKUPVALUE('Strike Rate Table'[Category],'Strike Rate Table'[Strike_Rate],Batting[SR])
 
 <img width="100" height="737" alt="Image" src="https://github.com/user-attachments/assets/13d227ce-8d1c-4867-bd8e-56188c3e0a16" />
