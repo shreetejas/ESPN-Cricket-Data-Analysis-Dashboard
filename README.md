@@ -102,34 +102,20 @@ Total catches, stumpings, and dismissals.
 
 Dismissals per innings metric.   
 
-##snapshot 
-###Batting 
+## snapshot 
+### Batting 
 
 <img width="1312" height="735" alt="Image" src="https://github.com/user-attachments/assets/5485d7db-0333-4c98-9aff-db3141b885a2" />
 
 
-###Bowling
+### Bowling
 
 <img width="1313" height="746" alt="Image" src="https://github.com/user-attachments/assets/6d0cc3d1-c9b4-4fd5-812a-3c9b356c5136" />
 
-###Fielding
+### Fielding
 
 <img width="1335" height="751" alt="Image" src="https://github.com/user-attachments/assets/fb73256e-c3b9-41e3-90cf-3f320691b7ef" />
 
-##Actionable Recommendations
-
--- Improve Low Strike Rate Batters: Conduct specialized batting sessions focused on power-hitting and strike rotation.
-
--- Control Bowling Economy: Provide targeted training for bowlers with high economy rates, especially in death overs.
-
--- Boost Fielding Performance: Introduce regular fielding drills focusing on catching, throwing accuracy, and anticipation.
-
--- Player Comparison for Selection: Use dashboard insights to select the most consistent players for crucial matches.
-
--- Role Optimization: Assign roles based on strengths—e.g., power hitters in the top order, economical bowlers in pressure overs.
-
--- Performance Tracking: Monitor player metrics across matches to maintain consistency and identify early signs of underperformance.
-
-##Conclusion
+## Conclusion
 
 This project showcases my ability to analyze multi-dimensional cricket data using Power BI, uncover meaningful insights, and translate them into actionable strategies for selectors, coaches, and analysts. It demonstrates strong skills in DAX, data modeling, performance measurement, and dashboard storytelling—while solving real-world sports analysis challenges.
