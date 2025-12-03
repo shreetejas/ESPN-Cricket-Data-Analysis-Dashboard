@@ -48,27 +48,28 @@ for creating new column following DAX expression was written;
 
 - Step 14: New measure was created to find total count of customers.
 Following DAX expression was written for the same,
-       
+## Snap of Rank column,     
 Rank = RANKX(ALL(Batting),Batting[SR],,DESC,Dense)
 
-##Snap of Rank column,
 <img width="73" height="731" alt="Image" src="https://github.com/user-attachments/assets/e1c93a6b-e085-4022-95f1-aedb93c9c2be" />
 
-##Snap of Squared Deviation column,
+## Snap of Squared Deviation column,
 Squared Deviation = POWER(Batting[Deviation],2) 
 
 <img width="162" height="727" alt="Image" src="https://github.com/user-attachments/assets/6f001c66-3eca-45a4-9ae5-daf612241dee" />
 
-##Snap of Absolute Deviation column,
+## Snap of Absolute Deviation column,
 Absolute Deviation = ABS(Batting[Deviation])
 
 <img width="174" height="732" alt="Image" src="https://github.com/user-attachments/assets/01665cba-cfbb-453c-8d05-8e2a28ebe800" />
 
+## Snap of Deviation column,
 Deviation = Batting[Runs]-AVERAGE(Batting[Runs]) 
 
 <img width="141" height="726" alt="Image" src="https://github.com/user-attachments/assets/8f719ee5-895f-4e7a-9959-aaf0bfdad040" />
 
 
+## Snap of Category,
 Category = LOOKUPVALUE('Strike Rate Table'[Category],'Strike Rate Table'[Strike_Rate],Batting[SR])
 
 <img width="100" height="737" alt="Image" src="https://github.com/user-attachments/assets/13d227ce-8d1c-4867-bd8e-56188c3e0a16" />
