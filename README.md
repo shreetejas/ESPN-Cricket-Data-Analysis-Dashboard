@@ -111,5 +111,3 @@ Dismissals per innings metric.
 ###Fielding 
 
 <img width="1335" height="751" alt="Image" src="https://github.com/user-attachments/assets/fb73256e-c3b9-41e3-90cf-3f320691b7ef" />
-
-### Dataset used:
