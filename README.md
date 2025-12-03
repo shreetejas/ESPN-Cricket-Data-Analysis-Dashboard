@@ -15,7 +15,7 @@ Since the number of inconsistent or low-performing players is higher than the co
 
 Also, since key metrics like batting strike rate, bowling economy, and fielding contributions show noticeable gaps, the team must focus on reducing these performance issues to achieve better match outcomes.
 
-##ERD
+## ERD
 
 <img width="1006" height="691" alt="Image" src="https://github.com/user-attachments/assets/ffacee4d-a627-4c6a-b16d-db24bdc0b1e2" />
 
